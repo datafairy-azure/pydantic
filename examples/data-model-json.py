@@ -1,4 +1,4 @@
-"""Example from https://github.com/ArjanCodes/2021-pydantic/blob/main/example.py"""
+"""Example from https://github.com/ArjanCodes/2021-pydantic/blob/main/example.py with updates for pydantic v2."""
 import json
 import pydantic
 from typing import List, Optional
