@@ -1,2 +1,3 @@
 pre-commit==3.5.0
 pydantic==2.4.2
+pandantic==0.3.0
